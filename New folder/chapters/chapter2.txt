@@ -1,0 +1,11 @@
+<html>
+ <head>
+	<title> chapter-2 </title>
+ </head>
+ <body>
+	<a href="../index.html"> go back </a>
+	<p><img src="chap2/a (1).jpg" alt="images chap2" title="chap2 page1" /></p>
+	<p><img src="chap2/a (2).jpg" alt="images chap2" title="chap2 page2" /></p>
+	<p><img src="chap2/a (3).jpg" alt="images chap2" title="chap2 page3" /></p>
+ </body>
+</html>
